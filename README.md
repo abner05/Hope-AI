@@ -1,2 +1,2 @@
 # Hope-AI
-AI basic 
+AI Basic 
